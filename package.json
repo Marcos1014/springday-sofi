@@ -1,4 +1,5 @@
-{"homepage": "https://Marcos1014.github.io/springday-sofi",
+{
+  "homepage": "https://Marcos1014.github.io/springday-sofi",
   "name": "mi-proyecto",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-}
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +42,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-  
 }
