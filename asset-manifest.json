@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/springday-sofi/static/css/main.dd952a24.css",
+    "main.js": "/springday-sofi/static/js/main.512fc991.js",
+    "static/js/453.0d8477c6.chunk.js": "/springday-sofi/static/js/453.0d8477c6.chunk.js",
+    "index.html": "/springday-sofi/index.html",
+    "main.dd952a24.css.map": "/springday-sofi/static/css/main.dd952a24.css.map",
+    "main.512fc991.js.map": "/springday-sofi/static/js/main.512fc991.js.map",
+    "453.0d8477c6.chunk.js.map": "/springday-sofi/static/js/453.0d8477c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd952a24.css",
+    "static/js/main.512fc991.js"
+  ]
+}
